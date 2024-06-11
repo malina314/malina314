@@ -1,4 +1,6 @@
+<!--
 ![meme](./meme.jpg)
+-->
 
 <!--
 ### Hi there 👋
